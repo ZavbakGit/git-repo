@@ -1,0 +1,3 @@
+discard - отказаться от изменений до commita
+reverent - вернуться назаз. делает откат всего coomit
+reset - 'nj
